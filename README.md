@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, Rect.Js, ML....
 - 💞️ I’m looking to collaborate on any open source that can aid humanity
 - 📫 How to reach me @macanalytic on all social medial...
-- www.macanalyti.com
+- www.macanalytic.com.ng
 -  
 
 <!---
